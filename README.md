@@ -19,8 +19,16 @@
 [![](https://visitcount.itsvg.in/api?id=Mayank4543&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌟 Google Cloud Skills Boost Badges
 
-![Google Cloud Badge 1](https://github.com/Mayank4543/codemynk_resources/blob/main/badge/badge1.png)] (https://www.cloudskillsboost.google/public_profiles/623d2300-60f8-4b10-b6e4-6e28d2f86d4a/badges/14506968)  
-![Google Cloud Badge 2](https://github.com/Mayank4543/codemynk_resources/blob/main/badge/badge2.png)](https://www.cloudskillsboost.google/public_profiles/623d2300-60f8-4b10-b6e4-6e28d2f86d4a/badges/14505093)  
-![Google Cloud Badge 3](https://github.com/Mayank4543/codemynk_resources/blob/main/badge/badge3.png)](https://www.cloudskillsboost.google/public_profiles/623d2300-60f8-4b10-b6e4-6e28d2f86d4a/badges/14504564)  
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/623d2300-60f8-4b10-b6e4-6e28d2f86d4a/badges/14506968">
+    <img src="https://github.com/Mayank4543/codemynk_resources/blob/main/badge/badge1.png" width="150px" alt="Google Cloud Badge 1"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/623d2300-60f8-4b10-b6e4-6e28d2f86d4a/badges/14505093">
+    <img src="https://github.com/Mayank4543/codemynk_resources/blob/main/badge/badge2.png" width="150px" alt="Google Cloud Badge 2"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/623d2300-60f8-4b10-b6e4-6e28d2f86d4a/badges/14504564">
+    <img src="https://github.com/Mayank4543/codemynk_resources/blob/main/badge/badge3.png" width="150px" alt="Google Cloud Badge 3"/>
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
